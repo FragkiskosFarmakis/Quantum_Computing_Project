@@ -28,9 +28,9 @@ The **Quantum Computing Project** encompasses:
 
 ## Project Structure
 
-├── **Grovers_algorithm.ipynb # Grover's search algorithm implementation**.
-├── **parity_circuit_example.ipynb # Parity-checking quantum circuit example**.
-└── **Quantum_Computing_final_assignment.pdf # Final report detailing the project**.
+├── **Grovers_algorithm.ipynb # Grover's search algorithm implementation**.  
+├── **parity_circuit_example.ipynb # Parity-checking quantum circuit example**.  
+└── **Quantum_Computing_final_assignment.pdf # Final report and Theoretical Background**.  
 
 ## Prerequisites
 
