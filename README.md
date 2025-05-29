@@ -11,7 +11,6 @@ This repository presents implementations of foundational quantum algorithms, dev
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [License](#license)
 
 ---
 
@@ -65,6 +64,3 @@ Each notebook is self-contained and includes inline explanations to guide you th
 
 --**Run Grovers_algorithm.ipynb to see Grover's search algorithm in action.**  
 --**Open parity_circuit_example.ipynb to explore a quantum circuit for checking the parity of a bitstring.**  
-
-## License
-MIT
