@@ -67,3 +67,4 @@ Each notebook is self-contained and includes inline explanations to guide you th
 --**Open parity_circuit_example.ipynb to explore a quantum circuit for checking the parity of a bitstring.**  
 
 ## License
+MIT
