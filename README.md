@@ -39,7 +39,7 @@ Make sure you have the following installed:
 - Jupyter Notebook
 - Qiskit
 
-##Installation
+## Installation
 
 Install the required packages using pip:
 
@@ -59,11 +59,11 @@ cd Quantum_Computing_Project
 ```bash
 jupyter notebook
 ```
-##Usage
+## Usage
 
 Each notebook is self-contained and includes inline explanations to guide you through the quantum concepts.
 
 --**Run Grovers_algorithm.ipynb to see Grover's search algorithm in action.**  
 --**Open parity_circuit_example.ipynb to explore a quantum circuit for checking the parity of a bitstring.**  
 
-#License
+## License
