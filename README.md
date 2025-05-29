@@ -28,46 +28,33 @@ The **Quantum Computing Project** encompasses:
 
 ## Project Structure
 
-├── Grovers_algorithm.ipynb # Grover's search algorithm implementation
-├── parity_circuit_example.ipynb # Parity-checking quantum circuit example
-└── Quantum_Computing_final_assignment.pdf # Final report 
-
-
-
----
+├── **Grovers_algorithm.ipynb # Grover's search algorithm implementation**
+├── **parity_circuit_example.ipynb # Parity-checking quantum circuit example**
+└── **Quantum_Computing_final_assignment.pdf # Final report detailing the project**
 
 ## Prerequisites
 
-Ensure the following are installed on your system:
+Make sure you have the following installed:
 
 - Python 3.7 or higher
 - Jupyter Notebook
 - Qiskit
 
-Install required packages via pip:
+Install the required packages using pip:
 
 ```bash
 pip install notebook qiskit
 
-Installation
-Clone the repository:
-
-bash
-Copy
-Edit
+```
+1.Clone the repository:
+```bash
 git clone https://github.com/FragkiskosFarmakis/Quantum_Computing_Project.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
+```
+2.Navigate to the project directory:
+```bash
 cd Quantum_Computing_Project
-Launch Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook '''
-
-
-
+```
+3.Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
